@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="wp_db_transformation.xsl" type="text/xsl"?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 2.6.3-pl1
+- http://www.phpmyadmin.net
+-
+- Host: mysql
+- Generation Time: Jun 06, 2011 at 09:35 AM
+- Server version: 4.1.14
+- PHP Version: 4.3.11
+--><!--
+- Database: `wp28`
+-->
+<wp28>
+  <!-- Table wp_posts -->
+    
+   <wp_posts>
+        
+      <ID>1</ID>
+        
+      <post_author>1</post_author>
+        
+      <post_date>2006-08-31 10:38:59</post_date>
+        
+      <post_date_gmt>2006-08-31 10:38:59</post_date_gmt>
+        
+      <post_content>Example Post Content 1.</post_content>
+        
+      <post_title>Хайдельберг</post_title>
+        
+      <post_category>0</post_category>
+        
+      <post_excerpt/>
+        
+      <post_status>publish</post_status>
+        
+      <comment_status>closed</comment_status>
+        
+      <ping_status>open</ping_status>
+        
+      <post_password/>
+        
+      <post_name>privet-mir</post_name>
+        
+      <to_ping/>
+        
+      <pinged/>
+        
+      <post_modified>2008-01-31 13:37:14</post_modified>
+        
+      <post_modified_gmt>2008-01-31 13:37:14</post_modified_gmt>
+        
+      <post_content_filtered/>
+        
+      <post_parent>0</post_parent>
+        
+      <guid/>
+        
+      <menu_order>0</menu_order>
+        
+      <post_type>post</post_type>
+        
+      <post_mime_type/>
+        
+      <comment_count>1</comment_count>
+    
+   </wp_posts>
+    
+   <wp_posts>
+        
+      <ID>2</ID>
+        
+      <post_author>2</post_author>
+        
+      <post_date>2007-01-31 10:38:59</post_date>
+        
+      <post_date_gmt>2007-01-31 10:38:59</post_date_gmt>
+        
+      <post_content>Example Post Content 2.</post_content>
+        
+      <post_title>О сайте</post_title>
+        
+      <post_category>0</post_category>
+        
+      <post_excerpt/>
+        
+      <post_status>publish</post_status>
+        
+      <comment_status>open</comment_status>
+        
+      <ping_status>open</ping_status>
+        
+      <post_password/>
+        
+      <post_name>about</post_name>
+        
+      <to_ping/>
+        
+      <pinged/>
+        
+      <post_modified>2011-03-07 21:56:48</post_modified>
+        
+      <post_modified_gmt>2011-03-07 21:56:48</post_modified_gmt>
+        
+      <post_content_filtered/>
+        
+      <post_parent>0</post_parent>
+        
+      <guid/>
+        
+      <menu_order>-10</menu_order>
+        
+      <post_type>page</post_type>
+        
+      <post_mime_type/>
+        
+      <comment_count>4</comment_count>
+    
+   </wp_posts>
+</wp28>
