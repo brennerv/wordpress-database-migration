@@ -31,11 +31,9 @@
         
 		<xsl:choose>         		    
            	<xsl:when test="$len = 0"/> 
-			<!-- Check for the presence of flickr.com in the string. -->
+			<!-- Check for the presence of flickr.com in the string -->
            	<xsl:when test="not(contains($string, 'flickr.com'))"/> 
            	 
-           	<!-- Если строка не удовлетворяет условиям, то продолжаем рекурсию,
-           		 в противном случае выход из рекурсии -->
            	<xsl:otherwise>         
            		<!-- We store the value of the string in the variable starting after the starting character of the required substring -->
             	<xsl:variable name="hrefString" select="substring-after($string, '&lt;a')"/>
